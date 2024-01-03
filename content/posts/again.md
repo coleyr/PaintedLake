@@ -1,0 +1,16 @@
+
+---
+title: Again
+date: 2020-10-13
+tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
+---
+
+Micheal stared blankly at the wall in front of him considering the moments he wasted. The fortress of surity that he could smooth over thousands missteps gone. He sat back in his chair, slowly exhaling realizing he had held his breath for a long time.
+
+What would Ellory do? Micheal thought wishing he could ask her. "Oh hey Ellory quick question what do you do when you discover, due to the physical laws of the universe I can't see you anymore?" Michael simulated the conversation. Her middle school self might give him something like.
+
+"People leave, and you should atleast let them know you aren't leaving because of them." She would say twirling her hoodie draw strings.
+"But I am not leaving, I will still be here El, just in a different sort of way because of hedonic attenuation to sentimental vibrations." Michael paused, looking up in his imaginary conversation. That sounded like something Zeb would say, he would totally blame science for some failed relationship. Ever since he saw Zeb kick a perfect stranger in the back of the head because he wanted to see if he could lift his leg that high, Michael had vowed to never follow any impulse he could be sure Zeb would share.
+"I don't want to, but it isn't my choice, and I wish it where my choice." Michael said looking at the pie faced Ellory slowly twirling the strings and looking confused and misty eyed. Maybe I could talk to her senior year. "It's always your choice, and no matter what I will always be your friend." Ellory said swallowing hard.
+"No no, it isn't like that, it's not that I don't like like you it's that I figured out I can't visit anymore because of atte..." What would Zeb not say "math, I guess"
+"If you need help I can tutor you?" She would say hopefully lifting slightly off her toes to punctuate her offer. Michael swallowed hard sitting in his dorm. It appeared to him in that moment the age that might be best suited to this far fetched and magical conundrum might be six or seven year old Ellory. He smiled and started thinking about an anchor. The only trouble with this would be he can't always get to her, Mark and Judy could not be reliably convinced to driver little Michael over to see his friend, even when he told them it was urgent. Michael wanted little Ellory's answer, it was the only one he couldn't simulate, he could never tell what she would say. He thought about the time two of them drank pickle juice, Ellory figured she liked pickles and juice so why not? "Ok this one's yours" she said handing Michael a massive plastic virginia state cup filled halfway with cold pickle juice. He thought about tapping out and letting his younger self enjoy this delicacy but he was curious. Ellory grabbed the pickle jar with both hands lifted it to her mouth and took two large swallows. She puckered her lips and squinted hard. Michael looked on as she smacked her lips, her cheeks flushed and eyes watered. "It tastes like saying goodbye to a frog." She said blinking. I don't think I want a sensible answer to this situation Michael thought.

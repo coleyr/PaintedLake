@@ -31,7 +31,6 @@ collections:
           format: 'YYYY-MM-DD HH:mm',
         }
       - { label: 'Tags', name: 'tags', widget: 'list' }
-      - { label: 'Social Image', name: 'social_image', widget: 'image', required: false }
       - { label: 'Description', name: 'description', widget: 'text' }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
 

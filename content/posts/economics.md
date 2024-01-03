@@ -1,0 +1,18 @@
+
+---
+title: Economics
+date: 2020-04-18
+tags: ['The Portrait of Ellory', 'Uncategorized', 'Coley Angel']
+---
+
+"What is this class?"
+
+A long pause was held interrupted my small coughs and squeaking chairs settling. A hand rose and Eddie nodded to proceed.
+
+"English 561, the philosophy of great writers?" A thin girl with thick rimmed glasses said.
+
+"A practical answer, much appreciated. I have spent as much as a few minutes waiting for an answer. It is an answer, but I like to think that there are a few more questions like that in this class. Lingering curious questions that don't have a clear origin. That was rhetorical after all, this old man hasn't yet lost his mind, so why did he ask that question. I see some of you writing this down, don't. This is just the intro and I want your attention on the ideas and notions not the specifics. If I had to boil down some trait that great writers had, one of them would be that they don't answer question using convention. They are also often unburdened with being tied with how the question should be answered. There are many question that the mind struggles with, some of you may know writers, particularly poets have a suicide rate five times higher than the average person. I think that speaks to something else many writers have, problems. Some of you laughed at that, which is interesting. Problems that the writers experience are often problems most people experience? do you agree? Are they different in their scope? Maybe there exists a natural filter whereby people prefer reading things that people with tragic pasts have written and so it is only the writers that get popular have advanced problems. Personally I think the filter works like this, writing attracts people who feel things intensely, wonder wildly and they want to somehow share all that they feel and experience. The mechanism of language is imperfect and thus we rely on inference from the readers calling upon common experiences we can stack like legos to build something bigger. My Daughter died of a drug overdose."
+
+Silence filled the room and the students held their breath starring at the professor who again rocked back and forth on his heels.
+
+"It was not good. I did not like that. It made me sad. Of course I could say those things with more color. But nothing would reliably share my experience. To be honest the pain is not something I am eager to share. It sometimes washes over me so completely I have to lay down. There are many great lessons we will learn and I mean not to prioritize them for you. But I am going to start with one I think is good. A quote from the play our Town , 'Does anyone even realize life while they live it?' And the omnipotent narrator answers. 'No' pause 'The saints and the poets, they do some'. What does this mean? Well plainly we aren't good at appreciating life and breathing in all the meaning around us. So what is the lesson? I believe it is an economics lesson. What are you spending? Your very existence. How are you spending it? Have you even thought about how you are spending it and why? That is one of those big life questions and I think it is a type of question that doesn't have a clear origin and could be potentially sated with thoughtless truisms. Truthfully I don't think most people think about it once in a year. Those that do likely turn to someone else for some semblance of how they should answer. I can't tell you how to answer, and I don't think I should try. Let's wrestle with these uncomfortable questions and open our selves up to all that goes on around us. I think it will be a productive exercise and I look forward to getting started. That is all for today. Take the rest of the class time for yourself and spend it wisely.

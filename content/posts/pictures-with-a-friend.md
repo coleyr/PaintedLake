@@ -1,0 +1,9 @@
+
+---
+title: Pictures with a friend
+date: 2019-03-08
+tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
+---
+
+Ellory stood next to the sign and pointed. Hard Rock Cafe the sign said, Ellory was beaming eyes wide open and goofy smile. Hey Ellory wanna get something to eat? Michael
+Said from behind the camera. Uh yeah Ellory said twirling into crouched stance. Let’s get food... wait Ellory interrupted. Lemme see those pictures. Gotta be just right! Why Michael asked, his hunger making his tone short and snarky. Well that’s a good question, but I know I want to a good picture, I don’t know why all my pictures have to be good. After all aren’t we supposed to capture bits of life with pics?  Not all of life is posed. Right Michael said let’s eat. Ahh tut ... lemme see just to make sure it’s at least not bad. Ellory zoomed in looking at her face, her legs, her hands. Ah let’s do one more but come closer and don’t get so much space above my head, like hold the camera like this, ok!? Don’t move. Ok now. Ellory kicked one leg back and pointed at the sign making much the same expression as before, a rehearsed spontaneous wide eye smile. Michael hit the shutter button with out moving from where Ellory positioned him. Ellory bounced over and studied the image again. Ok, I think we got it! Doesn’t that feel good? You want one? No thanks Michael said I will take a picture in my head, he held up his thumb and index finger mimicking a camera and hit the imaginary shutter. Pshh brains don’t keep it as good. Michaels stomach growled, the smell of fried food carried on the salty air. Michael said ok but you gotta be in it with me. He turned and held the camera up with on hand and pulled Ellory close. Their heads almost touching, Ellorys cheeks shown bright red interrupted by a soft but very real smile.
