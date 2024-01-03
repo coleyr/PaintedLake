@@ -1,4 +1,3 @@
-
 ---
 title: Now You Know The Rest of the Story
 date: 2020-06-26

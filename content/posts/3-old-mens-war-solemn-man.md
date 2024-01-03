@@ -1,4 +1,3 @@
-
 ---
 title: 3. Old Men’s War: Solemn Man
 date: 2021-10-20

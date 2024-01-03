@@ -1,4 +1,3 @@
-
 ---
 title: All the presidents men
 date: 2021-01-27

@@ -1,4 +1,3 @@
-
 ---
 title: X. Old Men’s War: Johnny Hollywood
 date: 2021-12-05

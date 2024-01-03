@@ -1,4 +1,3 @@
-
 ---
 title: Bottom of the Lake 4.4
 date: 2019-05-16

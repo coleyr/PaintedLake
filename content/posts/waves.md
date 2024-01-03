@@ -1,4 +1,3 @@
-
 ---
 title: Waves
 date: 2019-12-14

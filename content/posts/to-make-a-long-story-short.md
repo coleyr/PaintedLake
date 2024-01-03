@@ -1,4 +1,3 @@
-
 ---
 title: To Make A Long Story Short
 date: 2020-06-26

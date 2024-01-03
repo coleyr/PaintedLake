@@ -1,4 +1,3 @@
-
 ---
 title: Baby, It's Cold Outside
 date: 2020-01-23

@@ -1,4 +1,3 @@
-
 ---
 title: ASMC - John Suus
 date: 2019-04-13

@@ -1,4 +1,3 @@
-
 ---
 title: The little Inn
 date: 2020-05-19

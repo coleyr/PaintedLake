@@ -1,4 +1,3 @@
-
 ---
 title: 12 - What am I doing?
 date: 2019-02-04

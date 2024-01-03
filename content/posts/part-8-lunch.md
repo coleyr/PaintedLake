@@ -1,4 +1,3 @@
-
 ---
 title: Part 8 - Lunch
 date: 2018-11-16

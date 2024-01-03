@@ -1,4 +1,3 @@
-
 ---
 title: The Big Game
 date: 2019-11-29

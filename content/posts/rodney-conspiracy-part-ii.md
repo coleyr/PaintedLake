@@ -1,4 +1,3 @@
-
 ---
 title: Rodney Conspiracy part II
 date: 2020-02-20

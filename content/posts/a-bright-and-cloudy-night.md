@@ -1,4 +1,3 @@
-
 ---
 title: A Bright and Cloudy Night
 date: 2019-08-14

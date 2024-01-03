@@ -1,4 +1,3 @@
-
 ---
 title: Thankless Jobs
 date: 2020-09-06

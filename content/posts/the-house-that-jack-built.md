@@ -1,4 +1,3 @@
-
 ---
 title: The house that Jack Built
 date: 2021-12-06

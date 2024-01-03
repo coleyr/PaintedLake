@@ -1,4 +1,3 @@
-
 ---
 title: Ethel
 date: 2019-08-15

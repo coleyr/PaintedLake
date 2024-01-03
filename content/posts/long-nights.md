@@ -1,4 +1,3 @@
-
 ---
 title: Long nights
 date: 2019-10-24

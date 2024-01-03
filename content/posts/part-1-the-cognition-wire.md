@@ -1,4 +1,3 @@
-
 ---
 title: Part: 1 - The cognition wire
 date: 2018-09-30

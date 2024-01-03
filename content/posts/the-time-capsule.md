@@ -1,4 +1,3 @@
-
 ---
 title: The Time Capsule
 date: 2020-12-30

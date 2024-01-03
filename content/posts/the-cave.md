@@ -1,4 +1,3 @@
-
 ---
 title: The Cave
 date: 2020-02-10

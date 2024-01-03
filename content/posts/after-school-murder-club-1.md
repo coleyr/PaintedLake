@@ -1,4 +1,3 @@
-
 ---
 title: After School Murder Club - 1
 date: 2019-01-06

@@ -1,4 +1,3 @@
-
 ---
 title: The Wrong Day Part I
 date: 2020-04-06

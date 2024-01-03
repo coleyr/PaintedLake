@@ -1,4 +1,3 @@
-
 ---
 title: Part 7 - Gardenia's
 date: 2018-10-30

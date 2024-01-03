@@ -1,4 +1,3 @@
-
 ---
 title: I Touched His Face
 date: 2020-12-14

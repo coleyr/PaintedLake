@@ -1,4 +1,3 @@
-
 ---
 title: Trips and sips
 date: 2021-07-13

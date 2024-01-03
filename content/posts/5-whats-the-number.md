@@ -1,4 +1,3 @@
-
 ---
 title: 5: Whats the number?
 date: 2019-11-17

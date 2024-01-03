@@ -1,4 +1,3 @@
-
 ---
 title: Working Title - Frechtel
 date: 2020-09-10

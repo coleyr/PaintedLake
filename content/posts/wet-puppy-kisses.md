@@ -1,4 +1,3 @@
-
 ---
 title: Wet puppy kisses
 date: 2019-05-15

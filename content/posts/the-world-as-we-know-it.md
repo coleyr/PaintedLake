@@ -1,4 +1,3 @@
-
 ---
 title: The World As We Know It
 date: 2020-10-03

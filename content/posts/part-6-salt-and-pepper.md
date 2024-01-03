@@ -1,4 +1,3 @@
-
 ---
 title: Part 6 - Salt And Pepper
 date: 2018-10-21

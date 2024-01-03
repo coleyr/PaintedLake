@@ -1,4 +1,3 @@
-
 ---
 title: 4: be careful!
 date: 2019-11-17

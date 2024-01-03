@@ -1,4 +1,3 @@
-
 ---
 title: Bottom of the Lake 5.1
 date: 2019-08-26

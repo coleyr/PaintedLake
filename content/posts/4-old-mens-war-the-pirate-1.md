@@ -1,4 +1,3 @@
-
 ---
 title: 4. Old Men’s War: The Pirate (1)
 date: 2021-11-17

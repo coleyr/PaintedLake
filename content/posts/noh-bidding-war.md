@@ -1,4 +1,3 @@
-
 ---
 title: Noh Bidding War
 date: 2020-11-20

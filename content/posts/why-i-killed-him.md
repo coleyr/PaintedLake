@@ -1,4 +1,3 @@
-
 ---
 title: Why I Killed Him
 date: 2020-03-23

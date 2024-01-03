@@ -1,4 +1,3 @@
-
 ---
 title: Doland Duck - Part 1
 date: 2020-01-03

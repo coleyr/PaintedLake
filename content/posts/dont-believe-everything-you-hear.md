@@ -1,4 +1,3 @@
-
 ---
 title: Don't believe everything you hear
 date: 2019-12-19

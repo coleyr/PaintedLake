@@ -1,4 +1,3 @@
-
 ---
 title: Bottom of the Lake 3.0
 date: 2019-01-29

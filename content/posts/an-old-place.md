@@ -1,4 +1,3 @@
-
 ---
 title: An old place
 date: 2019-01-26

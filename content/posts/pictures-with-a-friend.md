@@ -1,4 +1,3 @@
-
 ---
 title: Pictures with a friend
 date: 2019-03-08

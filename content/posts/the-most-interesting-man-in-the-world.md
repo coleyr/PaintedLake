@@ -1,4 +1,3 @@
-
 ---
 title: The Most Interesting Man in the World
 date: 2021-03-01

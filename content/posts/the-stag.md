@@ -1,4 +1,3 @@
-
 ---
 title: The Stag
 date: 2020-02-10

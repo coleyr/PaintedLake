@@ -1,4 +1,3 @@
-
 ---
 title: A walk down memory lane
 date: 2019-09-25

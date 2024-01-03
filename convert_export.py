@@ -30,7 +30,8 @@ def remove_html_tags(html_text:str):
 def create_gatsby_md(title, tags, created, content, outpath:str = "./content/posts/"):
     print(f"Creating title: {title}")
     with open(f"{outpath}{slugify(title)}.md", "w", encoding="utf-8") as f:
-        f.write(f"""
+        f.write(
+f"""\
 ---
 title: {title}
 date: {created}

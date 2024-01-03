@@ -1,4 +1,3 @@
-
 ---
 title: Shucking Croc Mother Cutter California See You Next Tuesday Halleluiah Amen! Part 2
 date: 2021-07-12

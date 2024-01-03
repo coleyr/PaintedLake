@@ -1,4 +1,3 @@
-
 ---
 title: How I choose
 date: 2019-10-04

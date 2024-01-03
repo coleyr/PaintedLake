@@ -1,4 +1,3 @@
-
 ---
 title: Salt Shakers
 date: 2021-01-04

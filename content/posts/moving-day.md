@@ -1,4 +1,3 @@
-
 ---
 title: Moving Day
 date: 2021-11-03

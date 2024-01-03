@@ -1,4 +1,3 @@
-
 ---
 title: A good time and an unpleasant meal
 date: 2019-03-25

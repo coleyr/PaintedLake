@@ -1,4 +1,3 @@
-
 ---
 title: 2. Old Man’s War: Chapter 1
 date: 2021-10-08

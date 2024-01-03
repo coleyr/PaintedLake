@@ -1,4 +1,3 @@
-
 ---
 title: SS Puppy
 date: 2019-09-18

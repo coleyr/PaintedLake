@@ -1,4 +1,3 @@
-
 ---
 title: Half Drunk Speeches I: The Best Woman
 date: 2020-07-16

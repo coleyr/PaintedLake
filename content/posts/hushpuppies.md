@@ -1,4 +1,3 @@
-
 ---
 title: Hushpuppies
 date: 2019-06-27

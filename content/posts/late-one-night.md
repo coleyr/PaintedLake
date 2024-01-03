@@ -1,4 +1,3 @@
-
 ---
 title: Late one night
 date: 2020-01-13

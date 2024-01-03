@@ -1,4 +1,3 @@
-
 ---
 title: Half Drunk Speeches II: Now, Yous, Can't Leave
 date: 2020-07-16

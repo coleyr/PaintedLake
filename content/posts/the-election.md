@@ -1,4 +1,3 @@
-
 ---
 title: The Election
 date: 2020-02-17

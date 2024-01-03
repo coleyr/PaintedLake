@@ -1,4 +1,3 @@
-
 ---
 title: A Thursday
 date: 2019-11-06

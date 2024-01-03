@@ -1,4 +1,3 @@
-
 ---
 title: The Rise of the White Stags
 date: 2020-02-10

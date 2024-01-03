@@ -1,4 +1,3 @@
-
 ---
 title: Clue
 date: 2019-10-17

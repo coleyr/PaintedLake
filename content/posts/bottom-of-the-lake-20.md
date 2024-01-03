@@ -1,4 +1,3 @@
-
 ---
 title: Bottom of the Lake 2.0
 date: 2018-10-22

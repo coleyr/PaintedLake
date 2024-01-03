@@ -1,4 +1,3 @@
-
 ---
 title: The Big Game Part 2
 date: 2019-11-29

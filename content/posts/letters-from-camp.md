@@ -1,4 +1,3 @@
-
 ---
 title: Letters from camp
 date: 2019-11-30

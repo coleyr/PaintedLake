@@ -1,4 +1,3 @@
-
 ---
 title: crossing over
 date: 2019-06-17

@@ -1,4 +1,3 @@
-
 ---
 title: Gods and Things
 date: 2019-11-12

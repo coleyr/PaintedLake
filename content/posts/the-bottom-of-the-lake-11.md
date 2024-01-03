@@ -1,4 +1,3 @@
-
 ---
 title: The Bottom of the Lake 1.1
 date: 2018-10-01

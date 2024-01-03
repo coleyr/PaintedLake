@@ -1,4 +1,3 @@
-
 ---
 title: The Rodney Conspiracy
 date: 2020-02-06

@@ -1,4 +1,3 @@
-
 ---
 title: 6: Final
 date: 2019-11-17

@@ -1,4 +1,3 @@
-
 ---
 title: ASMC - The Janitor's Closet
 date: 2019-04-09

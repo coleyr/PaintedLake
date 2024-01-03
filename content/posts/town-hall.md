@@ -1,4 +1,3 @@
-
 ---
 title: Town hall
 date: 2019-10-09

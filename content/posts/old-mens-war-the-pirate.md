@@ -1,4 +1,3 @@
-
 ---
 title: Old Men’s War: The Pirate
 date: 2021-11-17

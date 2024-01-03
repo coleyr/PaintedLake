@@ -1,4 +1,3 @@
-
 ---
 title: Painting with Ellory
 date: 2019-11-18

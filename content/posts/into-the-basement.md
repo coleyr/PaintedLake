@@ -1,4 +1,3 @@
-
 ---
 title: Into the basement
 date: 2019-10-17

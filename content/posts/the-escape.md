@@ -1,4 +1,3 @@
-
 ---
 title: The escape
 date: 2021-01-27

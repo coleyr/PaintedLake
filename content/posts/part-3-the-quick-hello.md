@@ -1,4 +1,3 @@
-
 ---
 title: Part: 3 - The Quick Hello
 date: 2018-10-01

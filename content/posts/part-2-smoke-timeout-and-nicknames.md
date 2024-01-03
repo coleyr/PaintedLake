@@ -1,4 +1,3 @@
-
 ---
 title: Part: 2 - Smoke, Timeout and Nicknames
 date: 2018-09-30

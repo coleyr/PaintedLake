@@ -1,4 +1,3 @@
-
 ---
 title: Part: 4 - Park Stories
 date: 2018-10-02

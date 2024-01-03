@@ -1,4 +1,3 @@
-
 ---
 title: 10. Old Men’s War: Fatso
 date: 2021-12-24
