@@ -1,5 +1,5 @@
 ---
-title: A good time and an unpleasant meal
+title: 'A good time and an unpleasant meal'
 date: 2019-03-25
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

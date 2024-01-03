@@ -1,5 +1,5 @@
 ---
-title: A Thursday
+title: 'A Thursday'
 date: 2019-11-06
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

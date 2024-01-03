@@ -1,5 +1,5 @@
 ---
-title: A Bright and Cloudy Night
+title: 'A Bright and Cloudy Night'
 date: 2019-08-14
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

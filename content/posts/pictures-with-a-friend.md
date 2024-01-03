@@ -1,5 +1,5 @@
 ---
-title: Pictures with a friend
+title: 'Pictures with a friend'
 date: 2019-03-08
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

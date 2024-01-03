@@ -1,5 +1,5 @@
 ---
-title: The Wrong Day Part II
+title: 'The Wrong Day Part II'
 date: 2020-04-06
 tags: ['After School Murder Club', 'Carl Schreiber']
 ---

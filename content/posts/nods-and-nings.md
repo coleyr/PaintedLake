@@ -1,5 +1,5 @@
 ---
-title: Nods and Nings
+title: 'Nods and Nings'
 date: 2019-11-12
 tags: ['After School Murder Club', 'Carl Schreiber']
 ---

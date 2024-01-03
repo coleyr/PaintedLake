@@ -1,5 +1,5 @@
 ---
-title: SS Puppy
+title: 'SS Puppy'
 date: 2019-09-18
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

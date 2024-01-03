@@ -1,5 +1,5 @@
 ---
-title: Waves
+title: 'Waves'
 date: 2019-12-14
 tags: ['After School Murder Club', 'Cole', 'Coley Angel']
 ---

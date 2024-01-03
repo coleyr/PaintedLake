@@ -1,5 +1,5 @@
 ---
-title: 12 - What am I doing?
+title: '12 - What am I doing?'
 date: 2019-02-04
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

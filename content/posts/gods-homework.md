@@ -1,5 +1,5 @@
 ---
-title: God's Homework
+title: 'God's Homework'
 date: 2021-03-16
 tags: ['The Portrait of Ellory', 'Coley Angel']
 ---

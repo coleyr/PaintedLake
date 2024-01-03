@@ -1,5 +1,5 @@
 ---
-title: Lunch
+title: 'Lunch'
 date: 2020-04-02
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

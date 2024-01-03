@@ -1,5 +1,5 @@
 ---
-title: ASMC - The Janitor's Closet
+title: 'ASMC - The Janitor's Closet'
 date: 2019-04-09
 tags: ['After School Murder Club', 'Carl Schreiber']
 ---

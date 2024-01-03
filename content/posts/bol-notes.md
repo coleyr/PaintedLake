@@ -1,5 +1,5 @@
 ---
-title: BOL Notes
+title: 'BOL Notes'
 date: 2018-11-29
 tags: ['The Bottom of the Lake', 'Carl Schreiber']
 ---

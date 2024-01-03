@@ -1,5 +1,5 @@
 ---
-title: Shucking Croc Mother Cutter California See You Next Tuesday Halleluiah Amen! - Part 1 Mo
+title: 'Shucking Croc Mother Cutter California See You Next Tuesday Halleluiah Amen! - Part 1 Mo'
 date: 2021-07-12
 tags: ['After School Murder Club', 'Carl Schreiber']
 ---

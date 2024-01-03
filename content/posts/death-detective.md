@@ -1,5 +1,5 @@
 ---
-title: Death Detective
+title: 'Death Detective'
 date: 2019-11-13
 tags: ['After School Murder Club', 'Carl Schreiber']
 ---

@@ -1,5 +1,5 @@
 ---
-title: Part 9 - Improv
+title: 'Part 9 - Improv'
 date: 2018-11-19
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

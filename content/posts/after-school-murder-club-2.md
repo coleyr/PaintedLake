@@ -1,5 +1,5 @@
 ---
-title: After School Murder Club - 2
+title: 'After School Murder Club - 2'
 date: 2019-01-06
 tags: ['After School Murder Club', 'Cole', 'Coley Angel']
 ---

@@ -1,5 +1,5 @@
 ---
-title: The escape
+title: 'The escape'
 date: 2021-01-27
 tags: ['After School Murder Club', 'Cole', 'Coley Angel']
 ---

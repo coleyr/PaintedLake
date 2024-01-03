@@ -1,5 +1,5 @@
 ---
-title: Proposals
+title: 'Proposals'
 date: 2020-09-22
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

@@ -1,5 +1,5 @@
 ---
-title: Bottom of the Lake 4.5
+title: 'Bottom of the Lake 4.5'
 date: 2019-06-12
 tags: ['The Bottom of the Lake', 'Carl Schreiber']
 ---

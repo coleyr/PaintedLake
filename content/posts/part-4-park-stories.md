@@ -1,5 +1,5 @@
 ---
-title: Part: 4 - Park Stories
+title: 'Part: 4 - Park Stories'
 date: 2018-10-02
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

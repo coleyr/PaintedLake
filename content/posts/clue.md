@@ -1,5 +1,5 @@
 ---
-title: Clue
+title: 'Clue'
 date: 2019-10-17
 tags: ['Uncategorized', 'Carl Schreiber']
 ---

@@ -1,5 +1,5 @@
 ---
-title: An old place
+title: 'An old place'
 date: 2019-01-26
 tags: ['After School Murder Club', 'Coley Angel']
 ---

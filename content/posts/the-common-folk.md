@@ -1,5 +1,5 @@
 ---
-title: The common folk
+title: 'The common folk'
 date: 2019-09-04
 tags: ['After School Murder Club', 'Coley Angel']
 ---

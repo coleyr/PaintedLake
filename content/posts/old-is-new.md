@@ -1,5 +1,5 @@
 ---
-title: Old is New
+title: 'Old is New'
 date: 2021-01-18
 tags: ['Hidden Intelligence', 'Carl Schreiber']
 ---

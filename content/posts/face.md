@@ -1,5 +1,5 @@
 ---
-title: Face
+title: 'Face'
 date: 2020-05-30
 tags: ['Hidden Intelligence', 'Carl Schreiber']
 ---

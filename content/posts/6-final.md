@@ -1,5 +1,5 @@
 ---
-title: 6: Final
+title: '6: Final'
 date: 2019-11-17
 tags: ['Uncategorized', 'Coley Angel']
 ---

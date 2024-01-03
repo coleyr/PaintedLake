@@ -1,5 +1,5 @@
 ---
-title: Outline
+title: 'Outline'
 date: 2019-07-18
 tags: ['After School Murder Club', 'Coley Angel']
 ---

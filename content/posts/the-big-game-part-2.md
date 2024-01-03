@@ -1,5 +1,5 @@
 ---
-title: The Big Game Part 2
+title: 'The Big Game Part 2'
 date: 2019-11-29
 tags: ['After School Murder Club', 'Carl Schreiber']
 ---

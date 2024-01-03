@@ -1,5 +1,5 @@
 ---
-title: Again
+title: 'Again'
 date: 2020-10-13
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

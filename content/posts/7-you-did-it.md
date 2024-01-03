@@ -1,5 +1,5 @@
 ---
-title: 7: You did it!
+title: '7: You did it!'
 date: 2019-11-18
 tags: ['Uncategorized', 'Coley Angel']
 ---

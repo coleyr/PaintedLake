@@ -1,5 +1,5 @@
 ---
-title: Alternate Ending 2
+title: 'Alternate Ending 2'
 date: 2019-10-10
 tags: ['The Bottom of the Lake', 'Carl Schreiber']
 ---

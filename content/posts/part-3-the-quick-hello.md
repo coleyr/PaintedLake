@@ -1,5 +1,5 @@
 ---
-title: Part: 3 - The Quick Hello
+title: 'Part: 3 - The Quick Hello'
 date: 2018-10-01
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

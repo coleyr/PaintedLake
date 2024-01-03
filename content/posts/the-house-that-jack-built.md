@@ -1,5 +1,5 @@
 ---
-title: The house that Jack Built
+title: 'The house that Jack Built'
 date: 2021-12-06
 tags: ['The Portrait of Ellory', 'Coley Angel']
 ---

@@ -1,5 +1,5 @@
 ---
-title: Doland Duck - Part 2
+title: 'Doland Duck - Part 2'
 date: 2020-01-03
 tags: ['Uncategorized', 'Carl Schreiber']
 ---

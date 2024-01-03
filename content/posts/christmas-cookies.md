@@ -1,5 +1,5 @@
 ---
-title: christmas cookies
+title: 'christmas cookies'
 date: 2020-12-22
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

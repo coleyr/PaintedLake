@@ -1,5 +1,5 @@
 ---
-title: The 19
+title: 'The 19'
 date: 2021-07-04
 tags: ['Hidden Intelligence', 'Carl Schreiber']
 ---

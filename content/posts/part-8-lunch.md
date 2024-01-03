@@ -1,5 +1,5 @@
 ---
-title: Part 8 - Lunch
+title: 'Part 8 - Lunch'
 date: 2018-11-16
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

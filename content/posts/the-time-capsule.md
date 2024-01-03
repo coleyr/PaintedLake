@@ -1,5 +1,5 @@
 ---
-title: The Time Capsule
+title: 'The Time Capsule'
 date: 2020-12-30
 tags: ['Hidden Intelligence', 'Carl Schreiber']
 ---

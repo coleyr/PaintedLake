@@ -1,5 +1,5 @@
 ---
-title: The Mayor
+title: 'The Mayor'
 date: 2020-03-11
 tags: ['After School Murder Club', 'Carl Schreiber']
 ---

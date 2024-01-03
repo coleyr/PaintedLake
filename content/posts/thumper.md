@@ -1,5 +1,5 @@
 ---
-title: Thumper
+title: 'Thumper'
 date: 2021-03-12
 tags: ['Uncategorized', 'Carl Schreiber']
 ---

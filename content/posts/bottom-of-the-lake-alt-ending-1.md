@@ -1,5 +1,5 @@
 ---
-title: Bottom of the Lake - Alt Ending 1
+title: 'Bottom of the Lake - Alt Ending 1'
 date: 2019-09-25
 tags: ['The Bottom of the Lake', 'Carl Schreiber']
 ---

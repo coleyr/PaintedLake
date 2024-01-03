@@ -1,5 +1,5 @@
 ---
-title: Into the basement
+title: 'Into the basement'
 date: 2019-10-17
 tags: ['After School Murder Club', 'Cole', 'Coley Angel']
 ---

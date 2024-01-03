@@ -1,5 +1,5 @@
 ---
-title: Swim lessons
+title: 'Swim lessons'
 date: 2021-07-26
 tags: ['The Portrait of Ellory', 'Coley Angel']
 ---

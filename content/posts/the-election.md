@@ -1,5 +1,5 @@
 ---
-title: The Election
+title: 'The Election'
 date: 2020-02-17
 tags: ['Uncategorized', 'Carl Schreiber']
 ---

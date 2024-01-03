@@ -1,5 +1,5 @@
 ---
-title: The Cave
+title: 'The Cave'
 date: 2020-02-10
 tags: ['Uncategorized', 'Carl Schreiber']
 ---

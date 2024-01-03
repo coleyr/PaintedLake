@@ -1,5 +1,5 @@
 ---
-title: Here will do
+title: 'Here will do'
 date: 2021-12-28
 tags: ['The Portrait of Ellory', 'Coley Angel']
 ---

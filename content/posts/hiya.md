@@ -1,5 +1,5 @@
 ---
-title: Hiya
+title: 'Hiya'
 date: 2020-08-07
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

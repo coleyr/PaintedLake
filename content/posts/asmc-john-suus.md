@@ -1,5 +1,5 @@
 ---
-title: ASMC - John Suus
+title: 'ASMC - John Suus'
 date: 2019-04-13
 tags: ['After School Murder Club', 'Carl Schreiber']
 ---

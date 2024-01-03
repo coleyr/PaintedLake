@@ -1,5 +1,5 @@
 ---
-title: 10. Old Men’s War: Fatso
+title: '10. Old Men’s War: Fatso'
 date: 2021-12-24
 tags: ['Uncategorized', 'Carl Schreiber']
 ---

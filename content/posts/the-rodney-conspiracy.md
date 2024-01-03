@@ -1,5 +1,5 @@
 ---
-title: The Rodney Conspiracy
+title: 'The Rodney Conspiracy'
 date: 2020-02-06
 tags: ['After School Murder Club', 'Coley Angel']
 ---

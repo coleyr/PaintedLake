@@ -1,5 +1,5 @@
 ---
-title: Ethel
+title: 'Ethel'
 date: 2019-08-15
 tags: ['After School Murder Club', 'Carl Schreiber']
 ---

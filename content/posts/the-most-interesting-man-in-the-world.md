@@ -1,5 +1,5 @@
 ---
-title: The Most Interesting Man in the World
+title: 'The Most Interesting Man in the World'
 date: 2021-03-01
 tags: ['Uncategorized', 'Carl Schreiber']
 ---

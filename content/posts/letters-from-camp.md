@@ -1,5 +1,5 @@
 ---
-title: Letters from camp
+title: 'Letters from camp'
 date: 2019-11-30
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

@@ -1,5 +1,5 @@
 ---
-title: Working Title - Frechtel
+title: 'Working Title - Frechtel'
 date: 2020-09-10
 tags: ['Frisco Short Stories', 'Carl Schreiber']
 ---

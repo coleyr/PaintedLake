@@ -1,5 +1,5 @@
 ---
-title: X. Old Men’s War: Johnny Hollywood
+title: 'X. Old Men’s War: Johnny Hollywood'
 date: 2021-12-05
 tags: ['Uncategorized', 'Carl Schreiber']
 ---

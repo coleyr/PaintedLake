@@ -1,5 +1,5 @@
 ---
-title: Wet puppy kisses
+title: 'Wet puppy kisses'
 date: 2019-05-15
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---
