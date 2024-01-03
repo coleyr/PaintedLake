@@ -33,7 +33,7 @@ def create_gatsby_md(title, tags, created, content, outpath:str = "./content/pos
         f.write(
 f"""\
 ---
-title: '{title}'
+title: "{title}"
 date: {created}
 tags: {tags}
 ---
