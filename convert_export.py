@@ -27,7 +27,6 @@ def remove_html_tags(html_text:str):
     # Extract text without HTML tags
     return soup.get_text(separator=' ', strip=True)
 
-
 def create_gatsby_md(title, tags, created, content, outpath:str = "./content/posts/"):
     print(f"Creating title: {title}")
     with open(f"{outpath}{slugify(title)}.md", "w", encoding="utf-8") as f:
