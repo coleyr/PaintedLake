@@ -1,5 +1,5 @@
 ---
-title: '2. Old Man’s War: Chapter 1'
+title: "2. Old Man’s War: Chapter 1"
 date: 2021-10-08
 tags: ["Old Men's War", 'Carl Schreiber']
 ---

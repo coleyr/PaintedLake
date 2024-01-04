@@ -1,5 +1,5 @@
 ---
-title: 'Part: 1 - The cognition wire'
+title: "Part: 1 - The cognition wire"
 date: 2018-09-30
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

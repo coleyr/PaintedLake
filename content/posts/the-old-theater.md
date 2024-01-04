@@ -1,5 +1,5 @@
 ---
-title: 'The old theater'
+title: "The old theater"
 date: 2020-07-16
 tags: ['After School Murder Club', 'Cole', 'Coley Angel']
 ---

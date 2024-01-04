@@ -1,5 +1,5 @@
 ---
-title: 'Part 7 - Gardenia's'
+title: "Part 7 - Gardenia's"
 date: 2018-10-30
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Gods and Things'
+title: "Gods and Things"
 date: 2019-11-12
 tags: ['After School Murder Club', 'Carl Schreiber']
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Hushpuppies'
+title: "Hushpuppies"
 date: 2019-06-27
 tags: ['The Portrait of Ellory', 'Coley Angel']
 ---

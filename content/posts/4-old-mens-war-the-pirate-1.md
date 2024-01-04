@@ -1,5 +1,5 @@
 ---
-title: '4. Old Men’s War: The Pirate (1)'
+title: "4. Old Men’s War: The Pirate (1)"
 date: 2021-11-17
 tags: ["Old Men's War", 'Carl Schreiber']
 ---

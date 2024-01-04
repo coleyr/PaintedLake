@@ -1,5 +1,5 @@
 ---
-title: 'The man in the salt shaker'
+title: "The man in the salt shaker"
 date: 2020-04-10
 tags: ['After School Murder Club', 'Cole', 'Coley Angel']
 ---

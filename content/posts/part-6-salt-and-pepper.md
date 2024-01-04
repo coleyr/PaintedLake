@@ -1,5 +1,5 @@
 ---
-title: 'Part 6 - Salt And Pepper'
+title: "Part 6 - Salt And Pepper"
 date: 2018-10-21
 tags: ['Cole', 'The Portrait of Ellory', 'Uncategorized', 'Coley Angel']
 ---

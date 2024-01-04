@@ -1,5 +1,5 @@
 ---
-title: '3: The ______ magazine'
+title: "3: The ______ magazine"
 date: 2019-11-17
 tags: ['Uncategorized', 'Coley Angel']
 ---

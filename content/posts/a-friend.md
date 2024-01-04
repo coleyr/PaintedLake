@@ -1,5 +1,5 @@
 ---
-title: 'A friend?'
+title: "A friend?"
 date: 2019-09-11
 tags: ['The Portrait of Ellory', 'Coley Angel']
 ---

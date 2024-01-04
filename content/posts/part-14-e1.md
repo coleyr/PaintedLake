@@ -1,5 +1,5 @@
 ---
-title: 'Part 14 - E1'
+title: "Part 14 - E1"
 date: 2019-02-25
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

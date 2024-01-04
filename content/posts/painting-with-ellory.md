@@ -1,5 +1,5 @@
 ---
-title: 'Painting with Ellory'
+title: "Painting with Ellory"
 date: 2019-11-18
 tags: ['Uncategorized', 'Coley Angel']
 ---

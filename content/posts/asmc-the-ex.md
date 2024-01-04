@@ -1,5 +1,5 @@
 ---
-title: 'ASMC - The Ex'
+title: "ASMC - The Ex"
 date: 2019-04-12
 tags: ['After School Murder Club', 'Cole', 'Coley Angel']
 ---

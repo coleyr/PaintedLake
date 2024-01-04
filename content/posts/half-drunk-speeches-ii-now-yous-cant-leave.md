@@ -1,5 +1,5 @@
 ---
-title: 'Half Drunk Speeches II: Now, Yous, Can't Leave'
+title: "Half Drunk Speeches II: Now, Yous, Can't Leave"
 date: 2020-07-16
 tags: ['After School Murder Club', 'Carl Schreiber']
 ---

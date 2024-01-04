@@ -1,5 +1,5 @@
 ---
-title: '3. Old Men’s War: Solemn Man'
+title: "3. Old Men’s War: Solemn Man"
 date: 2021-10-20
 tags: ["Old Men's War", 'Carl Schreiber']
 ---

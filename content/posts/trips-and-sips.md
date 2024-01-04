@@ -1,5 +1,5 @@
 ---
-title: 'Trips and sips'
+title: "Trips and sips"
 date: 2021-07-13
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

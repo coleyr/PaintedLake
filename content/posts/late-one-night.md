@@ -1,5 +1,5 @@
 ---
-title: 'Late one night'
+title: "Late one night"
 date: 2020-01-13
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

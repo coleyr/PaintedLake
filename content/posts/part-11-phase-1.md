@@ -1,5 +1,5 @@
 ---
-title: 'Part 11- Phase 1'
+title: "Part 11- Phase 1"
 date: 2018-12-09
 tags: ['Cole', 'The Portrait of Ellory', 'Coley Angel']
 ---

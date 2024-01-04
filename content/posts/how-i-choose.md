@@ -1,5 +1,5 @@
 ---
-title: 'How I choose'
+title: "How I choose"
 date: 2019-10-04
 tags: ['The Portrait of Ellory', 'Coley Angel']
 ---

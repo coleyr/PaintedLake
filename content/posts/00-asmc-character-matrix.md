@@ -1,5 +1,5 @@
 ---
-title: '0.0 ASMC Character Matrix'
+title: "0.0 ASMC Character Matrix"
 date: 2019-09-09
 tags: ['After School Murder Club', 'Carl Schreiber']
 ---

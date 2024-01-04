@@ -1,5 +1,5 @@
 ---
-title: 'Noh Bidding War'
+title: "Noh Bidding War"
 date: 2020-11-20
 tags: ['Hidden Intelligence', 'Carl Schreiber']
 ---

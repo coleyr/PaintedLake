@@ -1,5 +1,5 @@
 ---
-title: 'Salt Shakers'
+title: "Salt Shakers"
 date: 2021-01-04
 tags: ['After School Murder Club', 'Carl Schreiber']
 ---

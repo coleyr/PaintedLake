@@ -1,5 +1,5 @@
 ---
-title: 'A rainy day'
+title: "A rainy day"
 date: 2020-06-17
 tags: ['Cole', 'Gallery', 'The Portrait of Ellory', 'Coley Angel']
 ---

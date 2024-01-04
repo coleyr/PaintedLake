@@ -1,5 +1,5 @@
 ---
-title: 'Jersey's Story'
+title: "Jersey's Story"
 date: 2020-06-27
 tags: ['After School Murder Club', 'Carl Schreiber']
 ---

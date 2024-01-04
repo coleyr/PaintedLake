@@ -1,5 +1,5 @@
 ---
-title: 'ASMC 1.1'
+title: "ASMC 1.1"
 date: 2019-01-20
 tags: ['After School Murder Club', 'Carl Schreiber']
 ---

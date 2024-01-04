@@ -1,5 +1,5 @@
 ---
-title: 'Yo, Jackass!  One from the wire'
+title: "Yo, Jackass!  One from the wire"
 date: 2019-07-14
 tags: ['After School Murder Club', 'Carl Schreiber']
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'The Stag'
+title: "The Stag"
 date: 2020-02-10
 tags: ['Uncategorized', 'Carl Schreiber']
 ---

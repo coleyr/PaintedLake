@@ -1,5 +1,5 @@
 ---
-title: 'The Stripper - Chapter 2'
+title: "The Stripper - Chapter 2"
 date: 2020-04-27
 tags: ['The Stripper', 'Carl Schreiber']
 ---

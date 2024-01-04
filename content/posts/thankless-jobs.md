@@ -1,5 +1,5 @@
 ---
-title: 'Thankless Jobs'
+title: "Thankless Jobs"
 date: 2020-09-06
 tags: ['Hidden Intelligence', 'Carl Schreiber']
 ---
